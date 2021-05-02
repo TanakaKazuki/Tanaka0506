@@ -1,0 +1,2 @@
+Git checkout . セーブされた最新の状態に戻す
+Git clear
